@@ -1,0 +1,13 @@
+{
+  "name": "Commercial_Agent",
+  "version": "1.0.0",
+  "soul_file": "./SOUL.md",
+  "model": "claude-3-5-sonnet-20241022",
+  "temperature": 0.5,
+  "variables": {
+    "nombre_salon": "",
+    "ciudad": "",
+    "numero_sillas": 0,
+    "lead_status": "NEW"
+  }
+}
